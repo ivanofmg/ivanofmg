@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Ivanof Mercado
 
-![Harrisburg University](https://upload.wikimedia.org/wikipedia/commons/4/49/Harrisburg_University_logo.png#gh-light-mode-only)
-![DeVry University](https://upload.wikimedia.org/wikipedia/commons/f/fb/DeVry_University_logo.svg#gh-light-mode-only)
+![Harrisburg University](https://commons.wikimedia.org/wiki/File:Harrisburg-U-Logo-Full.png)
+![DeVry University](https://en.wikipedia.org/wiki/DeVry_University#/media/File:DeVry_University_logo.svg)
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
 🔬 *Specialization in Cyber Warfare* at **Harrisburg University of Science and Technology**  
