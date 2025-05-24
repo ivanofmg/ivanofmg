@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="assets/images/hu-logo.png" alt="Harrisburg University" width="300" style="margin: 0 20px;"/>
-  <img src="assets/images/devry-university-logo.svg" alt="DeVry University" width="200" style="margin: 0 20px;"/>
+  <img src="assets/images/devry-university-logo.png" alt="DeVry University" width="200" style="margin: 0 20px;"/>
 </p>
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
