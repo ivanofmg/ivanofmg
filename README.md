@@ -12,9 +12,9 @@
 ---
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
-🔬 *Specialization in Cyber Warfare* at **Harrisburg University of Science and Technology**  
-🎓 **B.S. in Technical Management (Magna Cum Laude)** from **DeVry College of New York**  
-📍 Based in Allentown, PA. United States of America  
+🔬 *Specialization in Cyber Warfare* at [**Harrisburg University of Science and Technology**](https://www.harrisburgu.edu)  
+🎓 **B.S. in Technical Management (Magna Cum Laude)** from [**DeVry College of New York**](https://www.devry.edu) 
+📍 Based in Allentown, PA. USA.  
 🛡️ Passionate about Red Teaming, Infrastructure Hardening, and Security Engineering
 
 ---
@@ -22,7 +22,7 @@
 ### 🧪 Featured Projects
 
 - 🔐 [Cybersecurity Labs Portfolio (GitHub Pages)](https://ivanofmg.github.io/cybersecurity-labs-ivanof/)  
-  Real-world technical labs in system hardening, SIEM implementation, firewalls, network simulation, and ethical hacking.
+  Applied academic knowledge in real-world technical labs, focusing on system hardening, SIEM implementation, firewalls, network simulation, and ethical hacking.
 
 - 🧩 [Windows Server 2016 Hardening](https://github.com/ivanofmg/cybersecurity-labs-ivanof/tree/main/01-windows-hardening-stig)  
   Full compliance implementation using CIS STIG v1.1.0.
