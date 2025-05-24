@@ -1,14 +1,20 @@
 ## 👋 Hello, I'm Ivanof Mercado
 
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
-  <img src="assets/images/hu-logo-resized.png" alt="Harrisburg University" width="320" />
-  <img src="assets/images/devry-logo-resized.png" alt="DeVry University" width="320" />
+### 🎓 Academic Background
+
+---
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <img src="assets/images/hu-logo-resized.png" alt="Harrisburg University" style="width: 300px; margin-bottom: 10px;" />
+  <img src="assets/images/devry-logo-resized.png" alt="DeVry University" style="width: 300px;" />
 </div>
+
+---
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
 🔬 *Specialization in Cyber Warfare* at **Harrisburg University of Science and Technology**  
 🎓 **B.S. in Technical Management (Magna Cum Laude)** from **DeVry College of New York**  
-📍 Based in Allentown, PA  
+📍 Based in Allentown, PA. United States of America  
 🛡️ Passionate about Red Teaming, Infrastructure Hardening, and Security Engineering
 
 ---
