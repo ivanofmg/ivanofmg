@@ -13,7 +13,7 @@
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
 🔬 *Specialization in Cyber Warfare* at [**Harrisburg University of Science and Technology**](https://www.harrisburgu.edu)  
-🎓 **B.S. in Technical Management (Magna Cum Laude)** from [**DeVry College of New York**](https://www.devry.edu) 
+🎓 **B.S. in Technical Management (Magna Cum Laude)** from [**DeVry College of New York**](https://www.devry.edu)   
 📍 Based in Allentown, PA. USA.  
 🛡️ Passionate about Red Teaming, Infrastructure Hardening, and Security Engineering
 
