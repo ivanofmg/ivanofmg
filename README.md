@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
   <img src="assets/images/hu-logo.png" alt="Harrisburg University" width="260" />
-  <img src="assets/images/devry-university.png" alt="DeVry University" width="200" />
+  <img src="assets/images/devry-university-logo.png" alt="DeVry University" width="200" />
 </div>
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
