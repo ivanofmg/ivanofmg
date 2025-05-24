@@ -1,45 +1,46 @@
-## 👋 Hello, I'm Ivanof Mercado
 
-![Harrisburg University](https://upload.wikimedia.org/wikipedia/commons/4/49/Harrisburg_University_logo.png#gh-light-mode-only)
-![DeVry University](https://upload.wikimedia.org/wikipedia/commons/f/fb/DeVry_University_logo.svg#gh-light-mode-only)
+## 👋 Hola, soy Ivanof Mercado
 
-🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
-🔬 *Specialization in Cyber Warfare* at **Harrisburg University of Science and Technology**  
-🎓 **B.S. in Technical Management (Magna Cum Laude)** from **DeVry College of New York**  
-📍 Based in Allentown, PA  
-🛡️ Passionate about Red Teaming, Infrastructure Hardening, and Security Engineering
+![Universidad de Harrisburg](https://upload.wikimedia.org/wikipedia/commons/4/49/Harrisburg_University_logo.png#gh-light-mode-only)
+![Universidad DeVry](https://upload.wikimedia.org/wikipedia/commons/f/fb/DeVry_University_logo.svg#gh-light-mode-only)
 
----
-
-### 🧪 Featured Projects
-
-- 🔐 [Cybersecurity Labs Portfolio (GitHub Pages)](https://ivanofmg.github.io/cybersecurity-labs-ivanof/)  
-  Real-world technical labs in system hardening, SIEM implementation, firewalls, network simulation, and ethical hacking.
-
-- 🧩 [Windows Server 2016 Hardening](https://github.com/ivanofmg/cybersecurity-labs-ivanof/tree/main/01-windows-hardening-stig)  
-  Full compliance implementation using CIS STIG v1.1.0.
-
-- 🌐 [Network Simulation with MikroTik + GNS3](https://github.com/ivanofmg/cybersecurity-labs-ivanof/tree/main/04-mikrotik-gns3-simulation)  
-  VLAN routing, QoS, and perimeter protection with CHR.
+🎓 **Candidato a Maestría en Gestión de Operaciones y Control de Ciberseguridad**  
+🔬 *Especialización en Guerra Cibernética* en la **Harrisburg University of Science and Technology**  
+🎓 **Licenciatura en Gestión Técnica (Magna Cum Laude)** por **DeVry College of New York**  
+📍 Residente en Allentown, PA  
+🛡️ Apasionado por el Red Teaming, Hardening de Infraestructura y la Ingeniería de Seguridad
 
 ---
 
-### ⚙️ Tech Stack
+### 🧪 Proyectos Destacados
 
-#### 🛡️ Security Tools
+- 🔐 [Portafolio de Laboratorios de Ciberseguridad (GitHub Pages)](https://ivanofmg.github.io/cybersecurity-labs-ivanof/)  
+  Laboratorios técnicos reales de hardening, implementación de SIEM, firewalls, simulación de redes y hacking ético.
+
+- 🧩 [Hardening de Windows Server 2016](https://github.com/ivanofmg/cybersecurity-labs-ivanof/tree/main/01-windows-hardening-stig)  
+  Implementación completa conforme al estándar CIS STIG v1.1.0.
+
+- 🌐 [Simulación de Redes con MikroTik + GNS3](https://github.com/ivanofmg/cybersecurity-labs-ivanof/tree/main/04-mikrotik-gns3-simulation)  
+  Ruteo de VLANs, QoS y protección perimetral con CHR.
+
+---
+
+### ⚙️ Herramientas Técnicas
+
+#### 🛡️ Herramientas de Seguridad
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-003545?logo=metasploit&logoColor=white&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BBD?logo=kalilinux&logoColor=white&style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00539C?logo=wazuh&logoColor=white&style=for-the-badge)
 ![pfSense](https://img.shields.io/badge/pfSense-333A41?logo=pfsense&logoColor=white&style=for-the-badge)
 
-#### 🌐 Networking & Virtualization
+#### 🌐 Redes y Virtualización
 ![MikroTik](https://img.shields.io/badge/MikroTik-E11837?logo=mikrotik&logoColor=white&style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/GNS3-2F8DCE?logo=gns3&logoColor=white&style=for-the-badge)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
-#### 🧠 Scripting & Dev Tools
+#### 🧠 Scripting y Herramientas de Desarrollo
 ![Zabbix](https://img.shields.io/badge/Zabbix-E11837?logo=zabbix&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
@@ -56,9 +57,9 @@
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ivanof)  
 [![GitHub](https://img.shields.io/badge/GitHub-ivanofmg-black?logo=github&style=flat-square)](https://github.com/ivanofmg)
 
-> "Security is not a product — it’s a mindset."
+> "La seguridad no es un producto, es una mentalidad."
