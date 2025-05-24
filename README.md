@@ -4,9 +4,9 @@
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="assets/images/hu-logo-resized.png" alt="Harrisburg University" style="width: 300px; margin-bottom: 10px;" />
-  <img src="assets/images/devry-logo-resized.png" alt="DeVry University" style="width: 300px;" />
+<div align="left">
+  <img src="assets/images/hu-logo-resized.png" alt="Harrisburg University" width="260" /><br>
+  <img src="assets/images/devry-logo-resized.png" alt="DeVry University" width="260" />
 </div>
 
 ---
