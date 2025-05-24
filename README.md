@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Ivanof Mercado
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px;">
-  <img src="assets/images/hu-logo-resized.png" alt="Harrisburg University" width="260" />
-  <img src="assets/images/devry-logo-resized.png" alt="DeVry University" width="200" />
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+  <img src="assets/images/hu-logo-resized.png" alt="Harrisburg University" width="320" />
+  <img src="assets/images/devry-logo-resized.png" alt="DeVry University" width="320" />
 </div>
 
 🎓 **Master’s Candidate in Cybersecurity Operations and Control Management**  
