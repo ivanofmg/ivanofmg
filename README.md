@@ -1,4 +1,7 @@
-<h1 align="center">
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-1a1b27?style=for-the-badge" /></a>
+  <a href="README_es.md"><img src="https://img.shields.io/badge/🇪🇸_Espa%C3%B1ol-7AA2F7?style=for-the-badge" /></a>
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Ivanof+Mercado+%F0%9F%91%8B;CEO+%26+Founder+%40+InteliNetworks+%C2%B7+EcoHomes+%F0%9F%9A%80;IT+Project+Manager+%40+Kyrios+Bufete+%E2%9A%96%EF%B8%8F;Customer+Success+Manager+%40+Audara+Systems+%F0%9F%8E%A7;Cybersecurity+Engineer+%7C+MS+Cyber+Warfare+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
